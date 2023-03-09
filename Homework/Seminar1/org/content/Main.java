@@ -25,7 +25,6 @@ public class Main {
         Entot.addToColl(Domestos);
         ProductCategory Wine = new ProductCategory("Wine");
         Entot.addToColl(Wine);
-        Entot.addToColl(Domestos);
         User Max = new User("Max", "148");
         User Kate = new User("Kate", "9584");
         User Alina = new User("Alina", "3247");
